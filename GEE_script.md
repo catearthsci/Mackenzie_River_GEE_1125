@@ -2,7 +2,9 @@ https://code.earthengine.google.com/84a276a4f95917b8084863ece05f6cae
 
 /*
 
-C. R. Baldwin - Dept. of Earth Sciences, University of Oxford Mackenzie River surface area and Vitrekwa timeseries For: Dasari et al. "Climate sensitive methane release from Arctic rivers in sediment-laden channels", November 2025
+C. R. Baldwin - Dept. of Earth Sciences, University of Oxford 
+
+Mackenzie River surface area and Vitrekwa timeseries For: Dasari et al. "Climate sensitive methane release from Arctic rivers in sediment-laden channels", November 2025
 
 Site coordinates (lat, long): Vitrekwa-Peel tributary: 67.1665, -135.0688 Middle Channel start: 67.5785, -134.0116 Middle Channel end: 68.4638, -134.1263 East Channel start: 67.7887, -134.1848 East Channel end: 68.3073, -133.7333
 
